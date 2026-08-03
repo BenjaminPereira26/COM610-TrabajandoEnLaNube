@@ -3,6 +3,7 @@
 **Carrera:** Ing. Sistemas  
 **Docente:** Ing. Marcelo Quispe Ortega  
 **Semestre:** 2/2026  
+**Repositorio GIT:** https://github.com/BenjaminPereira26/COM610-TrabajandoEnLaNube
 # Informe Laboratorio 1
 
 ## Sección 1: Preparación del Entorno Virtual
