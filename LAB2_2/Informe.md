@@ -267,6 +267,8 @@ docker run -d --network red-nube-usfx --name mariadb-usfx --env-file blog.env -v
 
 
 docker run -d --network red-nube-usfx --name wordpress-usfx --env-file blog.env -p 8081:80 -v vol-wp-contenido:/var/www/html/wp-content -v "${PWD}/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini" wordpress
+
+docker rm -f mariadb-usfx wordpress-usfx
 ```
 
 ![](images/vol38.png)
